@@ -1,0 +1,24 @@
+En esta cartpeta se encuentra el juego terminado con los siguientes arhivos:
+
+-Grillas:
+
+"pinu.png": Estado normal del actor
+"pingu2.png": Reaccion del actor al intractuar con un pinüino de Linux (bomba)
+"pingu3.png": Reaccion del actor al interactuar con dinero ( banana) 
+"bomba.png": convierte el modelo normal de la bomba en un pingüino de Linux
+"banana.png": convierte el modelo normal de la banana en dinero
+
+-Fondos:
+"menu.jpg": Fondo del menu del juego
+"fondo.jpg": Fondo de la ecsena principal del juego
+"ayuda.jpg": Fondo de la ecsena de ayuda del juego
+
+-Musica:
+"musica.mp3": Musica del fondo del juego
+
+-Archivos.py:
+"bananita.py": Toda la clase modificada por mi de las banana normal
+"bomba.py": Toda la clase modificada por mi de las bomba normal 
+"cajita.py": Toda la clase modificada por mi de las cajas normales
+"Jugeo.py": Codigo principal del juego. En este se importan todos los archivos 
+nombradosanteriormente  
